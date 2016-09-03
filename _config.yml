@@ -1,3 +1,4 @@
+exclude: [vendor]
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
