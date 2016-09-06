@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: Tips and tricks for Java
 ---
 > [Wiki Home](Home) ▸ **Tips and Tricks for Java**
