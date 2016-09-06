@@ -3,7 +3,7 @@ layout: blog
 category: blog
 tags:
   - apples
-published: false
+published: true
 title: Sharis New post
 ---
 ## Yay a  new post
