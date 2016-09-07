@@ -49,7 +49,5 @@ Set environment variables:
 ```
 cf set-env <APP-NAME> JBP_CONFIG_OPEN_JDK_JRE: [memory_calculator: {memory_sizes: { heap: 64M, metaspace: 34M }}]
 ```
-Restage application.
+Restage the application.
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
