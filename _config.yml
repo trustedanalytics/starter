@@ -1,7 +1,7 @@
 exclude: [vendor]
 baseurl: 
 permalink: pretty
-markdown: rdiscount
+markdown: kramdown
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
