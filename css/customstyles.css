@@ -425,16 +425,16 @@ ul#mysidebar {
 
 .nav ul li a {
     border-top:1px solid whitesmoke;
-    padding-left:10px;
+    padding-left:20px;
 }
 /* end sidebar */
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    border-radius:5px;
+    border-radius:0px;
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
-    border-radius: 5px;
+    border-radius: 0px;
 }
 
 span.projectTitle {
@@ -450,7 +450,7 @@ span.projectTitle {
     background-color: whitesmoke;
     padding: 10px;
     max-width: 250px;
-    border-radius: 5px;
+    border-radius: 0px;
     margin-top: 50px;
     font-style:italic;
     font-size:12px;
@@ -864,6 +864,8 @@ span.soft {
     margin: 15px 0px;
     background-color: whitesmoke;
 }
+body {
+}
 
 @media (max-width: 767px) {
     .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
@@ -892,28 +894,6 @@ span.soft {
 }
 
 .col-md-9 img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-
-.post-content img {
-    margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
-    max-width: 100%;
-    max-height: 100%;
-}
-.col-md-9 img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-
-.post-content img {
-    margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
     max-width: 100%;
     max-height: 100%;
 }
