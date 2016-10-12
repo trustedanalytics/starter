@@ -1,8 +1,8 @@
 ---
-title: TAP Documentation
+title: Technical Documentation
 keywords: sample homepage
 tags:
-  - getting_started
+  - Overview
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: >-
