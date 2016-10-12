@@ -21,7 +21,7 @@ entries:
       
   - title: Overview
     output: web, pdf
-    
+    folderitems:
     
   - title: Use Case Examples
     output: web, pdf
@@ -50,7 +50,6 @@ entries:
       output: web, pdf
   - title: Marketplace
     output: web, pdf
-    
     folderitems:
     - title: Creating a Service Instance
       url: /InstanceCreation.html
@@ -58,6 +57,7 @@ entries:
     - title: Services Available
       url: /AvailableServices.html
       output: web, pdf
+      
   - title: Data Ingestion
     output: web, pdf
     folderitems:
@@ -109,12 +109,14 @@ entries:
     - title: Sharing Apps
       url: /mydoc_scroll.html
       output: web, pdf
+      
   - title: Troubleshooting
     output: web, pdf
     folderitems:
     - title: FAQs
       url: /mydoc_troubleshooting.html
       output: web, pdf
+      
     - title: System Logs
       url: /mydoc_troubleshooting.html
       output: web, pdf
@@ -179,8 +181,8 @@ entries:
       url: /mydoc_tag_archives_overview.html
       output: web
       
-   - title: Contributing to TAP
-    output: web, pdf
+    - title: Contributing to TAP
+      output: web, pdf
     
     folderitems:
     - title: Application Development
