@@ -21,7 +21,7 @@ entries:
       
   - title: Overview
     output: web, pdf
-    folderitems:
+    
     
   - title: Use Case Examples
     output: web, pdf
