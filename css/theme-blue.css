@@ -14,7 +14,7 @@ h4 {color: #808080; }
 }
 
 .nav > li.active > a {
-    background-color: #00AFE9;
+    background-color: #0e1d2e;
 }
 
 .nav > li > a:hover {
@@ -32,7 +32,7 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 }
 
 a[data-toggle="tooltip"] {
-    color: #005875;
+    color: #00AFE9;
     font-style: italic;
     cursor: default;
 }
