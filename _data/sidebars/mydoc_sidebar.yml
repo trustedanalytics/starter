@@ -1,15 +1,13 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
-
 entries:
 - title: sidebar
   product: Version
   version: 0.8
   folders:
-
   - title:
     output: pdf
     type: frontmatter
-    
+ 
     folderitems:
     - title:
       url: /titlepage
@@ -19,11 +17,9 @@ entries:
       url: /tocpage
       output: pdf
       type: frontmatter
-
   - title: Overview
     output: web, pdf
     folderitems:
-
   - title: Use Case Examples
     output: web, pdf
     folderitems:
@@ -31,11 +27,9 @@ entries:
     - title: Dataset Reader
       url: /Example_DatasetReader.html
       output: web, pdf
-
     - title: Space Shuttle
       url: /Example_SpaceShuttle.html
       output: web, pdf
-
     - title: Data Ingestion Through Kafka
       url: /Example_Kafka.html
       output: web, pdf
@@ -51,7 +45,6 @@ entries:
     - title: Accessing Your Account
       url: /AccountAccess.html
       output: web, pdf
-
   - title: Marketplace
     output: web, pdf
     
@@ -59,96 +52,75 @@ entries:
     - title: Creating a Service Instance
       url: /InstanceCreation.html
       output: web, pdf
-
     - title: Services Available
       url: /AvailableServices.html
       output: web, pdf
-
   - title: Data Ingestion
     output: web, pdf
-
     folderitems:
     - title: Data Catalog
       url: /mydoc_sidebar_navigation.html
       output: web, pdf
-
     - title: Data Ingestion Scheduler
       url: /mydoc_yaml_tutorial.html
       output: web, pdf
-
   - title: Building Analytics
     output: web, pdf
-
     folderitems:
     - title: SparkTK 
       url: /mydoc_adding_tooltips.html
       output: web, pdf
-
     - title: H2O Integration with TAP
       url: /mydoc_alerts.html
       output: web, pdf
-
     - title: Sci-kit Learn Intesgration with TAP
       url: /mydoc_icons.html
       output: web, pdf
-
   - title: Model Publishing
     output: web, pdf
-
     folderitems:
     - title: New pages
       url: /mydoc_commenting_on_files.html
       output: web, pdf
-
     - title: MAR File Format
       url: /mydoc_git_collaboration
       output: web, pdf
-
   - title: TAP Integration
     output: web, pdf
-
     folderitems:
     - title: REST APIs
       url: /mydoc_build_arguments.html
       output: web, pdf
-
   - title: Application Deployment
     output: web, pdf
-
     folderitems:
     - title: Deploying your First Application
       url: /mydoc_kb_layout.html
       output: web, pdf
-
     - title: Tips and Tricks for Java
       url: /mydoc_glossary.html
       output: web, pdf
-
     - title: Binding Apps to Services
       url: /mydoc_faq_layout.html
       output: web, pdf
-
     - title: Sharing Apps
       url: /mydoc_scroll.html
       output: web, pdf
-
   - title: Troubleshooting
     output: web, pdf
-
     folderitems:
     - title: FAQs
       url: /mydoc_troubleshooting.html
       output: web, pdf
-      
-	- title: System Logs
+    - title: System Logs
       url: /mydoc_troubleshooting.html
       output: web, pdf
       
- 	- title: Components and versions
+    - title: Components and versions
       url: /mydoc_troubleshooting.html
       output: web, pdf 
       
-	- title: Community Support
+    - title: Community Support
       url: /mydoc_troubleshooting.html
       output: web, pdf 
    
@@ -176,26 +148,26 @@ entries:
       url: /mydoc_tag_archives_overview.html
       output: web
       
-	- title: Platform Deployment on AWS
+    - title: Platform Deployment on AWS
       url: /mydoc_tag_archives_overview.html
       output: web
       
-	- title: Platform Deployment on Baremetal
+    - title: Platform Deployment on Baremetal
       url: /mydoc_tag_archives_overview.html
       output: web
       
- 	- title: Building Artifacts from Sources
+    - title: Building Artifacts from Sources
       url: /mydoc_tag_archives_overview.html
       output: web
       
-	- title: Post Deployment Tests
+    - title: Post Deployment Tests
       url: /mydoc_tag_archives_overview.html
       output: web
       
-	- title: Migrating Data from 0.7 to 0.8
+    - title: Migrating Data from 0.7 to 0.8
       url: /mydoc_tag_archives_overview.html
       output: web
-      
+  
   - title: TAP Reference Docs
     output: web, pdf
     
@@ -212,22 +184,22 @@ entries:
       url: /mydoc_tag_archives_overview.html
       output: web
       
-	- title: Development Environment Setup
+    - title: Development Environment Setup
       url: /mydoc_tag_archives_overview.html
       output: web
       
-	- title: Development Guidelines
+    - title: Development Guidelines
       url: /mydoc_tag_archives_overview.html
       output: web
       
-	- title: Adding New Components to TAP Deployment
+    - title: Adding New Components to TAP Deployment
       url: /mydoc_tag_archives_overview.html
       output: web
       
- 	- title: Console Design
+    - title: Console Design
       url: /mydoc_tag_archives_overview.html
       output: web
       
-	- title: TAP Architecture
+    - title: TAP Architecture
       url: /mydoc_tag_archives_overview.html
       output: web
