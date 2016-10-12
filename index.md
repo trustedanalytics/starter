@@ -6,9 +6,9 @@ tags:
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: >-
-  These brief instructions will help you get started quickly with the theme. The
-  other topics in this help provide additional information and detail about
-  working with other aspects of this theme and Jekyll.
+  Welcome to the Trusted Analytics Platform version 0.8 technical documentation.
+  For simpler instructions on how to use TAP please visit our community site
+  using the link in the header.
 published: true
 ---
 
