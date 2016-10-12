@@ -13,9 +13,8 @@ topnav_dropdowns:
     - title: Previous Releases
       folderitems:
         - title: 0.8 (Latest)
-          url: https://github.com/tomjohnson1492/documentation-theme-jekyll
+          url: https://docstarter.herokuapp.com/index.html
         - title: 0.7
-          url: https://talk.jekyllrb.com
+          url: https://github.com/trustedanalytics/platform-wiki-0.7/wiki
         - title: 0.6
-          external_url: http://jekyllrb.com/docs/home/
-
+          external_url: https://github.com/trustedanalytics/platform-wiki-0.6/wiki
