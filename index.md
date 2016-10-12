@@ -25,6 +25,6 @@ TAP includes an intuitive user interface carefully designed around a data scienc
 
 Trusted Analytics Platform (TAP) can easily be deployed on [Amazon Web Services](mydoc_deployment_aws) or as an [on premises deployment](mydoc_deployment_onprem), or you can download the [TAP sources and binaries](mydoc_deployment_sourcesandbinaries). 
 
-###Getting Started
+### Getting Started
 
-We provide use case examples to get you started with your TAP environment.  Visit our [community site](http://www.community.trustedanalytics.org) for workshops and tutorials that walk you through the TAP workflow.
+We provide [use case examples](mydocs_use_case_examples) to get you started with your TAP environment.  Visit our [community site](http://www.community.trustedanalytics.org) for workshops and tutorials that walk you through the TAP workflow.
