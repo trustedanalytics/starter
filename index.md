@@ -1,6 +1,6 @@
 ---
 title: Technical Documentation
-keywords: sample homepage
+keywords: Trusted Analytics Platform
 tags:
   - Overview
 sidebar: mydoc_sidebar
