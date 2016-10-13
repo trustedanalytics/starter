@@ -1,22 +1,20 @@
 ---
 title: Dataset Reader
 keywords: dataset reader example
-last_updated: October, 2016
-tags: [examples]
-summary: "Insert the summary paragraph here."
+last_updated: 'October, 2016'
+tags:
+  - examples
+summary: Insert the summary paragraph here.
 sidebar: mydoc_sidebar
 permalink: examples_dsreader.html
 folder: mydoc
+published: true
 ---
 
-Insert content here: [http://idratherbewriting.com](http://idratherbewriting.com). I write several posts there a week. See [my blog's about page](http://idratherbewriting.com/aboutme/) for more details about me.
+## Dataset Reader
 
-I have used this theme and variations of it for various documentation projects. This theme has undergone several major iterations, and now it's fairly stable and full of all the features that I need. You are welcome to use it for your documentation projects for free.
+Insert content here: [http://idratherbewriting.com](http://idratherbewriting.com). Use Markdown format.
 
-I think this theme does pretty much everything that you can do with something like OxygenXML, but without the constraints of structured authoring. Everything is completely open and changeable, so if you start tinkering around with the theme's files, you can break things. But it's completely empowering as well!
-
-With a completely open architecture and code base, you can modify the code to make it do exactly what you want, without having to jump through all kinds of confusing or proprietary code.
-
-If there's a feature you need but it isn't available here, let me know and I might add it. Alternatively, if you fork the theme, I would love to see your modifications and enhancements.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {% include links.html %}
