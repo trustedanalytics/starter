@@ -19,9 +19,6 @@ entries:
       output: pdf
       type: frontmatter
       
-  - title: Overview
-    output: web, pdf
-    
   - title: Use Case Examples
     output: web, pdf
     folderitems:
