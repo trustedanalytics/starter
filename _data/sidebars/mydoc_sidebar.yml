@@ -27,14 +27,14 @@ entries:
       url: /examples_dsreader.html
       output: web, pdf
     - title: Space Shuttle
-      url: /Example_SpaceShuttle.html
+      url: /examples_spaceshuttle.html
       output: web, pdf
     - title: Data Ingestion Through Kafka
-      url: /Example_Kafka.html
+      url: /examples_dataingestkafka.html
       output: web, pdf
       
     - title: Enable IOT
-      url: /Example_EnableIOT.html
+      url: /examples_enableiot.html
       output: web, pdf
       
   - title: Account Access
@@ -42,87 +42,92 @@ entries:
     
     folderitems:
     - title: Accessing Your Account
-      url: /AccountAccess.html
+      url: /acctaccess_accessing.html
       output: web, pdf
   - title: Marketplace
     output: web, pdf
     folderitems:
     - title: Creating a Service Instance
-      url: /InstanceCreation.html
+      url: /marketplace_createinstance.html
       output: web, pdf
     - title: Services Available
-      url: /AvailableServices.html
+      url: /marketplace_services.html
       output: web, pdf
       
   - title: Data Ingestion
     output: web, pdf
     folderitems:
     - title: Data Catalog
-      url: /mydoc_sidebar_navigation.html
+      url: /dataingest_datacatalog.html
       output: web, pdf
-    - title: Data Ingestion Scheduler
-      url: /mydoc_yaml_tutorial.html
+    - title: SQL Import
+      url: /dataingest_sqlimport.html
       output: web, pdf
+      folderitems:
+        - title: Data Catalog
+          url: /dataingest_sqlimport_scheduler.html
+          output: web, pdf
+          
   - title: Building Analytics
     output: web, pdf
     folderitems:
     - title: SparkTK 
-      url: /mydoc_adding_tooltips.html
+      url: /buildanalytics_sparktk.html
       output: web, pdf
     - title: H2O Integration with TAP
-      url: /mydoc_alerts.html
+      url: /buildanalytics_h2o.html
       output: web, pdf
     - title: Sci-kit Learn Intesgration with TAP
-      url: /mydoc_icons.html
+      url: /buildanalytics_scikitlearn.html
       output: web, pdf
   - title: Model Publishing
     output: web, pdf
     folderitems:
     - title: New pages
-      url: /mydoc_commenting_on_files.html
+      url: /models_newpages.html
       output: web, pdf
     - title: MAR File Format
-      url: /mydoc_git_collaboration
+      url: /models_marformat.html
       output: web, pdf
   - title: TAP Integration
     output: web, pdf
     folderitems:
     - title: REST APIs
-      url: /mydoc_build_arguments.html
+      url: /integration_restapis.html
       output: web, pdf
   - title: Application Deployment
     output: web, pdf
     folderitems:
     - title: Deploying your First Application
-      url: /mydoc_kb_layout.html
+      url: /appdev_deployapp.html
       output: web, pdf
     - title: Tips and Tricks for Java
-      url: /mydoc_glossary.html
+      url: /appdev_tipstricks.html
       output: web, pdf
     - title: Binding Apps to Services
-      url: /mydoc_faq_layout.html
+      url: /appdev_bindingapps.html
       output: web, pdf
     - title: Sharing Apps
-      url: /mydoc_scroll.html
+      url: /appdev_sharingapps.html
       output: web, pdf
       
   - title: Troubleshooting
     output: web, pdf
     folderitems:
     - title: FAQs
-      url: /mydoc_troubleshooting.html
+      url: /troubleshoot_faqs.html
       output: web, pdf
       
     - title: System Logs
-      url: /mydoc_troubleshooting.html
+      url: /troubleshoot_systemlogs.html
       output: web, pdf
       
     - title: Components and versions
-      url: /mydoc_troubleshooting.html
+      url: /troubleshoot_components.html
       output: web, pdf 
       
     - title: Community Support
-      url: /mydoc_troubleshooting.html
+      url: /troubleshoot_communitysupport.html
       output: web, pdf 
    
   - title: Platform Administration
@@ -130,11 +135,11 @@ entries:
     
     folderitems:
     - title: Managing Orgs and Users
-      url: /mydoc_tag_archives_overview.html
+      url: /administration_manageorgsusers.html
       output: web, pdf
       
     - title: Inviting User to a TAP Instance
-      url: /mydoc_tag_archives_overview.html
+      url: /administration_inviteusers.html
       output: web, pdf
       
   - title: TAP Platform Deployment
@@ -142,31 +147,35 @@ entries:
     
     folderitems:
     - title: Deployment Overview
-      url: /mydoc_tag_archives_overview.html
+      url: /deployment_overview.html
       output: web
       
     - title: TAP Sources and Binaries
-      url: /mydoc_tag_archives_overview.html
+      url: /deployment_sourcesbinaries.html
       output: web
       
-    - title: Platform Deployment on AWS
-      url: /mydoc_tag_archives_overview.html
+    - title: Deployment Procedures
       output: web
+      folderitems:
+
+      - title: Platform Deployment on AWS
+        url: /deployment_procedures_aws.html
+        output: web
       
-    - title: Platform Deployment on Baremetal
-      url: /mydoc_tag_archives_overview.html
-      output: web
+      - title: Platform Deployment on Baremetal
+        url: /deployment_procedures_baremetal.html
+        output: web
       
     - title: Building Artifacts from Sources
-      url: /mydoc_tag_archives_overview.html
+      url: /deployment_buildfromsources.html
       output: web
       
     - title: Post Deployment Tests
-      url: /mydoc_tag_archives_overview.html
+      url: /deployment_postdeploytests.html
       output: web
       
     - title: Migrating Data from 0.7 to 0.8
-      url: /mydoc_tag_archives_overview.html
+      url: /deployment_migratedata.html
       output: web
   
   - title: TAP Reference Docs
@@ -174,7 +183,7 @@ entries:
     
     folderitems:
     - title: TAP CLI Reference Page
-      url: /mydoc_tag_archives_overview.html
+      url: /reference_cli.html
       output: web
       
     - title: Contributing to TAP
@@ -182,25 +191,25 @@ entries:
     
     folderitems:
     - title: Application Development
-      url: /mydoc_tag_archives_overview.html
+      url: /contributing_appdev.html
       output: web
       
     - title: Development Environment Setup
-      url: /mydoc_tag_archives_overview.html
+      url: /contributing_devenvironment.html
       output: web
       
     - title: Development Guidelines
-      url: /mydoc_tag_archives_overview.html
+      url: /contributing_devguidelines.html
       output: web
       
     - title: Adding New Components to TAP Deployment
-      url: /mydoc_tag_archives_overview.html
+      url: /contributing_addnew.html
       output: web
       
     - title: Console Design
-      url: /mydoc_tag_archives_overview.html
+      url: /contributing_consoledesign.html
       output: web
       
     - title: TAP Architecture
-      url: /mydoc_tag_archives_overview.html
+      url: /contributing_architecture.html
       output: web
