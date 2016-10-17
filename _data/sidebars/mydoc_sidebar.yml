@@ -24,7 +24,7 @@ entries:
     folderitems:
     
     - title: Dataset Reader
-      url: _posts/examples_dsreader.html
+      url: /examples_dsreader.html
       output: web, pdf
     - title: Space Shuttle
       url: /Example_SpaceShuttle.html
