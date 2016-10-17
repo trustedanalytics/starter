@@ -63,8 +63,13 @@ entries:
     - title: SQL Import
       url: /dataingest_sqlimport.html
       output: web, pdf
-      folderitems:
-        - title: Data Catalog
+      
+      subfolders:
+      - title: SQL Import Pages
+        output: web, pdf  
+        subfolderitems:
+          
+        - title: SQL Import Scheduler
           url: /dataingest_sqlimport_scheduler.html
           output: web, pdf
           
@@ -186,8 +191,8 @@ entries:
       url: /reference_cli.html
       output: web
       
-    - title: Contributing to TAP
-      output: web, pdf
+  - title: Contributing to TAP
+    output: web, pdf
     
     folderitems:
     - title: Application Development
