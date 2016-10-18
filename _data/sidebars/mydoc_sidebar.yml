@@ -158,18 +158,18 @@ entries:
     - title: TAP Sources and Binaries
       url: /deployment_sourcesbinaries.html
       output: web
-      
-    - title: Deployment Procedures
-      output: web
-      folderitems:
+      subfolders:
+      - title: Deployment Procedures
+        output: web
+        subfolderitems:
 
-      - title: Platform Deployment on AWS
-        url: /deployment_procedures_aws.html
-        output: web
+        - title: Platform Deployment on AWS
+          url: /deployment_procedures_aws.html
+          output: web
       
-      - title: Platform Deployment on Baremetal
-        url: /deployment_procedures_baremetal.html
-        output: web
+        - title: Platform Deployment on Baremetal
+          url: /deployment_procedures_baremetal.html
+          output: web
       
     - title: Building Artifacts from Sources
       url: /deployment_buildfromsources.html
@@ -198,15 +198,12 @@ entries:
     - title: Application Development
       url: /contributing_appdev.html
       output: web
+      subfolders:
       
-    - title: Development Environment Setup
-      url: /contributing_devenvironment.html
-      output: web
-      
-    - title: Development Guidelines
-      url: /contributing_devguidelines.html
-      output: web
-      
+      - title: Development Environment Setup
+        url: /contributing_devenvironment.html
+        output: web
+     
     - title: Adding New Components to TAP Deployment
       url: /contributing_addnew.html
       output: web
