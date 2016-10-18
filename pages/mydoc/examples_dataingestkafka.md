@@ -1,5 +1,5 @@
 ---
-title: Example: Data Ingestion Using Kafka
+title: Example Data Ingestion Using Kafka
 keywords: TAP data ingestion using kafka
 last_updated: 'October, 2016'
 tags:
