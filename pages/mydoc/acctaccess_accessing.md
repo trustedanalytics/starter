@@ -6,7 +6,7 @@ tags:
   - Account Access
 summary: Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post. 
 sidebar: mydoc_sidebar
-permalink: accetaccess_accessing.html
+permalink: acctaccess_accessing.html
 folder: mydoc
 published: true
 ---
