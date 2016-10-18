@@ -1,5 +1,5 @@
 ---
-title: Example: Enabling IOT
+title: Example Enabling IOT
 keywords: TAP enabling IOT
 last_updated: 'October, 2016'
 tags:
