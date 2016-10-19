@@ -4,9 +4,11 @@ keywords: platform deployment source binaries
 last_updated: 'October, 2016'
 tags:
   - Platform Deployment
-summary: Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post. 
+summary: >-
+  Insert the summary paragraph here.  To edit the summary you must edit the meta
+  data for this post.
 sidebar: mydoc_sidebar
-permalink: deployment_sourcebinaries.html
+permalink: deployment_sourcesbinaries.html
 folder: mydoc
 published: true
 ---
