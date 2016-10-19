@@ -10,9 +10,6 @@ permalink: 'https://community.trustedanalytics.org/docs/DOC-1042'
 folder: mydoc
 published: true
 ---
-{% if folderitem.external_url %}
-    <li><a href="{{folderitem.external_url}}" target="_blank">{{folderitem.title}}</a></li>```
-
 ## Dataset Reader
 
 Insert content here: [http://idratherbewriting.com](http://idratherbewriting.com). Use Markdown format.
