@@ -6,7 +6,7 @@ tags:
   - examples
 summary: Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post. 
 sidebar: mydoc_sidebar
-permalink: examples_spaceshuttle.html
+permalink: examples_dataingestkafka.html
 folder: mydoc
 published: true
 ---
