@@ -129,7 +129,7 @@ entries:
       output: web, pdf 
       
     - title: Community Support
-      url: /troubleshoot_communitysupport.html
+      external_url: https://community.trustedanalytics.org/community/TAP-support
       output: web, pdf 
    
   - title: Platform Administration
