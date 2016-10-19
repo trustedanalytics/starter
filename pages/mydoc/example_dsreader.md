@@ -10,6 +10,8 @@ permalink: 'https://community.trustedanalytics.org/docs/DOC-1042'
 folder: mydoc
 published: true
 ---
+{% if folderitem.external_url %}
+    <li><a href="{{folderitem.external_url}}" target="_blank">{{folderitem.title}}</a></li>```
 
 ## Dataset Reader
 
