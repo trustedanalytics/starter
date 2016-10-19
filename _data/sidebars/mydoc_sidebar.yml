@@ -24,7 +24,7 @@ entries:
     folderitems:
     
     - title: Dataset Reader
-      url: /examples_dsreader.html
+      url: https://community.trustedanalytics.org/docs/DOC-1042
       output: web, pdf
     - title: Space Shuttle
       url: /examples_spaceshuttle.html
