@@ -50,7 +50,7 @@ In addition to core CDH components, TAP includes recently released the [Cloudera
 
 Cloudera Director is _not_ exposed to end-users; only TAP system admins have access to it.
 
-##Application Platform
+## Application Platform
 
 ### Cloud Foundry
 
