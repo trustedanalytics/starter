@@ -28,7 +28,7 @@ TAP creates a platform  account with your email address as a login name. TAP als
 
 TAP then displays a confirmation screen (shown below). Click on the login link in the confirmation screen to log into the platform. (Remember to save the login link for future use.)
 
-![Account Creation Confirmation](images/Onboard_Confirm_Screen_v7_Crpd.png)
+![Account Creation Confirmation](images/Lec4-List_of_US_Presidents_by_Genealogical_Relationship.pdf)
 
 For more information about organizations, [go here](future link).
 
