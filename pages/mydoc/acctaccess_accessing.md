@@ -20,7 +20,7 @@ Initial access to the *platform*, along with the request to create an organizati
 
 After receiving a TAP invitation email from the admin, click on the link inside the email. This lands you on the registration page shown below, where you specify your TAP password and create and name an organization.
 
-![User Name Password With Organization Creation TAP](/images/Onboard_Invite_Screen_v7_Crpd.jpg)
+![User Name Password With Organization Creation TAP](/images/EditField_DataCatalog.jpg)
 
 Enter your password choice (twice) and the name you choose for your organization, select the Terms of Service checkbox, and click **Create account**. (It's a good idea to read the Terms of Service.)
 
@@ -36,7 +36,7 @@ For more information about organizations, [go here](future link).
 
 If you are *not* a member of the platform yet, an organization owner can invite you to an existing organization, which *also* invites you to the platform. After receiving the email invite and clicking on the link in the email, you will land on the registration page below.
 
-![Ongoing User Access TAP](/images/OrgSpace_Invite_Screen_v7_Crpd.jpg)
+![Ongoing User Access TAP](/images/EditField_DataCatalog.jpg)
 
 Enter your password choice (twice), select the Terms of Service checkbox, and click **Create account**. (It's a good idea to read the Terms of Service.)
 
@@ -44,7 +44,7 @@ TAP creates your platform account and gives you access to the organization you w
 
 TAP then displays a confirmation screen (shown below). Click on the login link in the confirmation screen to log into the platform. (Remember to save the login link for future use.)
 
-![Account Creation Confirmation](/images/Onboard_Confirm_Screen_v7_Crpd.png)
+![Account Creation Confirmation](/images/EditField_DataCatalog.jpg)
 
 For more information about organizations, [go here](future link).
 
@@ -54,8 +54,8 @@ For more information about organizations, [go here](future link).
 
 Once you have a TAP account, you can log in using the following screen:
 
-![Ongoing User Access TAP](/images/Signon_Screen_v7_Crpd.jpg)
+![Ongoing User Access TAP](/images/EditField_DataCatalog.jpg)
 
 If you have access to more than one organization, remember to select the organization you want to work in before starting work. You do this using the dropdown menu in the upper right of the TAP Console, as shown below:
 
-![](/images/Organization_Selection_v7_Crpd.png)
+![](/images/EditField_DataCatalog.jpg)
